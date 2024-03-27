@@ -1,3 +1,3 @@
 # Bottom_Navigation_code
 
-code for Bottom Navigation bar 
+code for the Bottom Navigation bar 
